@@ -20,6 +20,6 @@ We think this project had a ton of potential and we cant wait to see what we can
 
 ## Check it out
 
-https://hacks.pulsegrip.design
-https://github.com/PulseGrip
-https://devpost.com/software/pulsegrip
+https://hacks.pulsegrip.design<br>
+https://github.com/PulseGrip<br>
+https://devpost.com/software/pulsegrip<br>
